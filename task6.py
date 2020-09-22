@@ -1,3 +1,8 @@
 #!python3
 
-print("The future belongs to those" + + "who believe in the beauty" + "\n" of their dreams."
+A = "The future belongs to those"
+B = "who believe in the beauty"
+C = "of their dreams."
+result = A +" "+ B +" "+ C
+
+print(result)
