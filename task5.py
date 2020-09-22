@@ -2,7 +2,7 @@
 
 start = "here"
 repeats = 3
-word = "kitty "
+word = " kitty"
 
 result = start +","+ repeats*word 
 
